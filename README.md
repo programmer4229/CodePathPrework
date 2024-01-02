@@ -4,7 +4,7 @@ Submitted by: **Gabriella Gonzalez**
 
 **IntroducingMe** is an app that... introduces me to the user including my name, university, and future goal; it also allows the user the choose from various style and font combinations by clicking the two buttons
 
-<div style="position: relative; padding-bottom: 216%; height: 0;"><iframe src="https://www.loom.com/embed/369415e7b1de4db28b476288293d9efe?sid=7e64ef5f-a7ab-4501-a3a2-eda3237cf137" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XOlPT1A" data-context="false" ><a href="//imgur.com/a/XOlPT1A"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Time spent: **3** hours spent in total
 
